@@ -1,14 +1,15 @@
+from collections import defaultdict
 class Solution(object):
     def minimumDistance(self, nums):
+        pos=defaultdict(list)
+        for i,num in enumerate(nums):
+            pos[num].append(i)
         ans=float('inf')
-        dist=0
-        n=len(nums)
-        for i in range(n):
-            for j in range(i+1,n):
-                for k in range(j+1,n):
-                    if nums[i]==nums[j]==nums[k]:
-                        dist=2*(k-i)
-                        ans=min(dist,ans)
+        for index in pos.values():
+            if len(index)>=3:
+                for i in range(len(index)-2):
+                    dist=2*(index[i+2]-index[i])
+                    ans=min(ans,dist)
         return ans if ans!=float('inf') else -1
         """
         :type nums: List[int]
