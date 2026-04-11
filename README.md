@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
