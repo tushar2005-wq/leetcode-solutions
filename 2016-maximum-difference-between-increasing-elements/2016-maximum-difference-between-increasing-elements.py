@@ -1,12 +1,14 @@
 class Solution(object):
     def maximumDifference(self, nums):
-        ans=-1
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]<nums[j]:
-                    dist=nums[j]-nums[i]
-                    ans=max(ans,dist)
-        return ans
+        min_val=nums[0]
+        diff=-1
+        for i in range(1,len(nums)):
+            if nums[i]>min_val:
+                diff=max(diff,nums[i]-min_val)
+            else:
+                min_val=nums[i]
+        return diff
+
         """
         :type nums: List[int]
         :rtype: int
