@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
