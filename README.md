@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
