@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Greedy
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Breadth-First Search
@@ -152,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
