@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2784-check-if-array-is-good](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 <!---LeetCode Topics End-->
