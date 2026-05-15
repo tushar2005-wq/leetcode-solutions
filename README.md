@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
