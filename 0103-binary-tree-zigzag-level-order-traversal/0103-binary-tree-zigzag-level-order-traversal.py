@@ -22,11 +22,12 @@ class Solution(object):
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            if flag==-1:
+            if flag==0:
                 level.reverse()
-                
+                flag=1
+            elif flag==1:
+                flag=0
             ans.append(level)
-            flag=-flag
         return ans
         """
         :type root: Optional[TreeNode]
