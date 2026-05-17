@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
