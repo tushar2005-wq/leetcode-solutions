@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2784-check-if-array-is-good](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
