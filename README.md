@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0520-detect-capital](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 <!---LeetCode Topics End-->
