@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
