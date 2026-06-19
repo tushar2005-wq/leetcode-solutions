@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0520-detect-capital](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 ## Counting
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
