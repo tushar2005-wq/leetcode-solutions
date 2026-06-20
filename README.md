@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
