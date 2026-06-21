@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
