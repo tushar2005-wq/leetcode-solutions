@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
