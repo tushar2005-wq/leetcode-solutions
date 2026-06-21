@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
