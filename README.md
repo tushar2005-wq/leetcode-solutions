@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
+| [2769-find-the-maximum-achievable-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
