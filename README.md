@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1528-shuffle-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1528-shuffle-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
