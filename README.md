@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0120-triangle](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Depth-First Search
