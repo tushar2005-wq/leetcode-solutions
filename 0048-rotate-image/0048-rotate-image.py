@@ -1,5 +1,5 @@
 class Solution(object):
-    def rotate(self, matrix): #take transpose and revrse the matrix
+    def rotate(self, matrix): #take transpose and revrse the row of matrix
         n=len(matrix)
         for i in range(n):
             for j in range(i+1,n):
