@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
