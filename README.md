@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0739-daily-temperatures](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
