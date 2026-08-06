@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
