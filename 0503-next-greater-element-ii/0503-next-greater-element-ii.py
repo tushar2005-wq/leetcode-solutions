@@ -10,9 +10,7 @@ class Solution(object):
                 stack.pop()
             ans[i]=-1 if not stack else stack[-1]
             stack.append(c_nums[i])
-        for j in range(n):
-            final_ans.append(ans[j])
-        return final_ans
+        return ans[0:n]
             
         """
         :type nums: List[int]
