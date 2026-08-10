@@ -2,7 +2,6 @@ class Solution(object):
     def nextGreaterElements(self, nums):
         n=len(nums)
         stack=[]
-        final_ans=[]
         c_nums=nums+nums
         ans=[-1]*len(c_nums)
         for i in range(len(c_nums)-1,-1,-1):
