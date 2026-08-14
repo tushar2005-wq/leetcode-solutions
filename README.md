@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
