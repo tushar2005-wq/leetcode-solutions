@@ -2,7 +2,7 @@ from collections import defaultdict
 class Solution(object):
     def check(self,map_s,map_t):
         count=0
-        for x in map_t:
+        for x in map_s:
             if map_s[x]>=map_t[x]:
                 count+=1
         return count==len(map_t)
