@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
