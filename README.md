@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0061-rotate-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
