@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
