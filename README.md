@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
