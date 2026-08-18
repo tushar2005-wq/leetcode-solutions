@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3731-find-missing-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3731-find-missing-elements](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
