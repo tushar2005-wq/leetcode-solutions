@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
