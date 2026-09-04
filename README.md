@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
