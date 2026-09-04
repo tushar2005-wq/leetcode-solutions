@@ -448,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
