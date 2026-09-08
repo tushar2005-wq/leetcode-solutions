@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
