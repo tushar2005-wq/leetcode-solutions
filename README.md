@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
