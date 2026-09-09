@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0061-rotate-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
