@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
+| [1890-the-latest-login-in-2020](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
