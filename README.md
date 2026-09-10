@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
