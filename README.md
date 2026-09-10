@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0242-valid-anagram](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
