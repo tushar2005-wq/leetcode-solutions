@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0197-rising-temperature](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
