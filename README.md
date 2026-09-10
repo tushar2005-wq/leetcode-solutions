@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0319-bulb-switcher](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2048-next-greater-numerically-balanced-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
@@ -517,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
