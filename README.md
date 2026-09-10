@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0189-rotate-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
