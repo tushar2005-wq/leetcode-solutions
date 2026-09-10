@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
