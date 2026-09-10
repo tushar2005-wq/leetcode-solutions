@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
