@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1148-article-views-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
