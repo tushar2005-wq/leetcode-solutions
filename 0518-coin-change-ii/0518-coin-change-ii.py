@@ -1,5 +1,7 @@
 class Solution(object):
     def change(self, amount, coins):
+        if not coins:
+            return 0
         n=len(coins)
         dp={}
         def solve(idx,amount):
@@ -11,11 +13,12 @@ class Solution(object):
                 return dp[(idx,amount)]
             not_take=solve(idx-1,amount)
             take=0
-            if coins[idx]<=amount:
+            if amount>=coins[idx]:
                 take=solve(idx,amount-coins[idx])
             dp[(idx,amount)]=take+not_take
             return dp[(idx,amount)]
-        return solve(n-1,amount)
+        ans=solve(n-1,amount)
+        return ans
         """
         :type amount: int
         :type coins: List[int]
