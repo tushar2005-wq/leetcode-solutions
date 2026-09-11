@@ -532,10 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
