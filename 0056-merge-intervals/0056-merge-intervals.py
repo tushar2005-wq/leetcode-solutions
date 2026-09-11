@@ -1,7 +1,8 @@
 class Solution(object):
     def merge(self, intervals):
         intervals.sort(key=lambda x:x[0])
-        res=[intervals[0]]
+        res=[]
+        res.append(intervals[0])
         for i in range(1,len(intervals)):
             last=res[-1]
             curr=intervals[i]
@@ -10,7 +11,6 @@ class Solution(object):
             else:
                 res.append(curr)
         return res
-
         """
         :type intervals: List[List[int]]
         :rtype: List[List[int]]
