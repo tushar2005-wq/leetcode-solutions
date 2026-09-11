@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -538,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
