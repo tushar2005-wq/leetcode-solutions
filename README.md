@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0585-investments-in-2016](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [1148-article-views-i](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1321-restaurant-growth/) | Medium |
