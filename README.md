@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -548,9 +551,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tushar2005-wq/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
